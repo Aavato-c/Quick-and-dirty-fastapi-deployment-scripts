@@ -32,6 +32,7 @@ Developed using MacOS / Unix
 ```bash
 cd <your_fastapi_app_root>
 git clone <repository-url> ./deployment 
+mv ./deployment/deployment/* ./deployment 
 cd deployment
 ```
 ### 2. Create Environment Configuration
