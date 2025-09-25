@@ -1,0 +1,14 @@
+venv
+logs/*
+.DS_Store
+waste
+.vscode
+data/*
+pydantic2ts
+.islocal
+*.db
+*.db
+.git
+.timetracker
+__pycache__
+**/__pycache__

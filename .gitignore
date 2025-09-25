@@ -1,0 +1,6 @@
+.env.deployment
+api_gunicorn_start.sh
+api_nginx.conf
+update_on_server.sh
+ssl_server*.txt
+*.supervisor.conf
