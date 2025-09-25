@@ -138,7 +138,4 @@ Basically this is just a templater. Configure further inside ``update_to_server.
 - **File Permissions**: Problems might arise when rsync host doesn't have permissions or if socket isn't accessable to www-data (nginx)
 
 
-## 📄 License
-MIT License
-
 
